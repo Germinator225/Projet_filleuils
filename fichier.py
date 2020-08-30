@@ -28,4 +28,5 @@ if __name__ == '__main__':
     fichier.write("YAO LASME LINDAY MIRELLA\n")
     fichier.write("YAO VANESSA AMANI DE-FALLEY\n")
     fichier.write("YEO FOUNIGNIGUE CLEMENT\n")
+    fichier.write("YAO ABEL ATOHOURA\n")
     fichier.close()
