@@ -59,4 +59,4 @@ elif bb=="A" or bb=="a":
     if cc=="o" or cc=="O" :
         afficher()
 
-
+#--------------ajout d'un commentaire pour marquer la difference entre les differentes versions----------------
